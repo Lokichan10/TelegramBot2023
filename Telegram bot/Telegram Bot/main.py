@@ -9,7 +9,7 @@ sumary_cost = 0
 greet_kb = ReplyKeyboardMarkup()
 greet_kb.add(button_hi)
 
-API_TOKEN = '6186086068:AAFgq6nnPJgBwca2Z7XQja_PCZYBKugRLQw'
+API_TOKEN = '...'
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
